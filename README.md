@@ -25,4 +25,4 @@
 ---
 
 ## Support Open Source :
-* Support Open Source Community :) ..
+* Support Open Source Community :) 

@@ -16,8 +16,8 @@
 11. W.A.P to show the concept of function overloading.
 12. W.A.P to show the concept of Operator overloading.
 13. W.A.P to show the concept of Virtual function.
-14. W.A.P to show the concept of Constructor.
-15. W.A.P to show the concept of Default constructor.
+15. W.A.P to show the concept of Constructor.
+14. W.A.P to show the concept of Default constructor.
 16. W.A.P to show the concept of Parametrized constructor.
 17. W.A.P to show the concept of Copy constructor.
 18. W.A.P to show the concept of Multiple constructor.
@@ -35,7 +35,7 @@
 30. W.A.P to show the concept of multilevel inheritance. 
 31. W.A.P to show the concept of Hierarchical inheritance. 
 32. W.A.P to show the concept of hybrid inheritance. 
-33. W.A.P to show the concept of opening file.
+33. W.A.P to show the concept of creating file.
 34. W.A.P to show the concept of writing into a file.
 35. W.A.P to show the concept of reading from a file.
 36. W.A.P to show the concept of closing a file.
@@ -98,7 +98,6 @@
 5. W.A.P to find the complex no passing object as arguments.
 6. W.A.P to compare two string using overloading.
 
-## Advance :
-1. 
+ 
 
 
