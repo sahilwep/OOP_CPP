@@ -1,8 +1,3 @@
-```plain
-Functions and Polymorphism : function calling mechanisms: call by Value, call by address & call by
-reference, objects as function arguments, inline functions, making outside function inline, friend
-functions, static data members & static functions, function overloading
-```
 # Function and Polymorphism
 
 ## Function :  
@@ -433,7 +428,7 @@ int main(void){
 
 * Static variable used inside function, and initialized only once, and they hold-there value even though function calls.
 * These static variable are stored on static storage not in stack area.
-
+ 
 ```cpp
 #include<iostream>
 using namespace std;
@@ -484,7 +479,7 @@ int main(void){
 * Whenever we define the data member of a class using static keyword, the data member are called the static data member
 * All the object of that class share the same copy of the static member to access the static data.
 * To assign the value inside the static data we use a syntax like : `<return type> <class name>::<variable name> = <value>`
-
+ 
 ```cpp
 #include<iostream>
 using namespace std;

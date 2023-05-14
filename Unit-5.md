@@ -1,6 +1,6 @@
 # Constructor and Destructor
 
-## Constructor :
+## Constructor : 
 
 * Constructor is a special method in class which `called automatically` when the object is `created` of of that class.
 * Constructor uses the `same name` of their class, Whenever we create class there is always default constructor exist, it just if we want to explicitly declare constructor we can declare method with the same name of the class and that has no return type.
@@ -139,7 +139,7 @@ int main(){
     cout << "\nCopy constructor called..";
     obj2.display();
 
-
+ 
     return 0;
 }
 ```
@@ -408,7 +408,9 @@ public:
     void print(){
         cout << "\nvalue inside pointer is : " << *ptr;
     }
-
+    ~Abc(){
+        cout << "object delete successfully" << endl;
+    }
 };
 
 int main(){
@@ -417,8 +419,8 @@ int main(){
     Abc *obj2;
 
     // making the objects as dynamic 
-    obj = new Abc;
-    obj2 = new Abc;
+    obj = new Abc();
+    obj2 = new Abc();
 
     // assigning the obj1 to obj2
     obj2 = obj;

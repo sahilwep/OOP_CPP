@@ -1,8 +1,50 @@
 
 # Practice Questions :
 
-## Basics :
+## Concept Questions : 
 
+1. W.A.P to show the concept of call by value.
+2. W.A.P to show the concept of call by reference.
+3. W.A.P to show the concept of call by pointer.
+4. W.A.P to show the concept of object as a function argument.
+5. W.A.P to show the concept of object as a function argument in class.
+6. W.A.P to show the concept of inline function.
+7. W.A.P to show the concept of inline function in class & object as an argument of that function.
+8. W.A.P to show the concept of Friend function.
+9.  W.A.P to show the concept of Static variable inside functions.
+10. W.A.P to show the concept of Static variable inside static functions.
+11. W.A.P to show the concept of function overloading.
+12. W.A.P to show the concept of Operator overloading.
+13. W.A.P to show the concept of Virtual function.
+14. W.A.P to show the concept of Constructor.
+15. W.A.P to show the concept of Default constructor.
+16. W.A.P to show the concept of Parametrized constructor.
+17. W.A.P to show the concept of Copy constructor.
+18. W.A.P to show the concept of Multiple constructor.
+19. W.A.P to show the concept of Constructor Overloading.
+20. W.A.P to show the concept of Dynamic constructor.
+21. W.A.P to show the concept of Default arguments.
+22. W.A.P to show the concept of Constructor with default arguments.
+23. W.A.P to show the concept of Dynamic initialization of object & constructor. 
+24. W.A.P to show the concept of Dynamic initialization of object using constructor arguments. 
+25. W.A.P to show the concept of deallocating objects dynamically.
+26. W.A.P to show the concept of Destructor. 
+27. W.A.P to show the concept of Single inheritance. 
+28. W.A.P to show the concept of multiple inheritance. 
+29. W.A.P to show the concept of ambiguity in multiple inheritance. 
+30. W.A.P to show the concept of multilevel inheritance. 
+31. W.A.P to show the concept of Hierarchical inheritance. 
+32. W.A.P to show the concept of hybrid inheritance. 
+33. W.A.P to show the concept of opening file.
+34. W.A.P to show the concept of writing into a file.
+35. W.A.P to show the concept of reading from a file.
+36. W.A.P to show the concept of closing a file.
+37. W.A.P to show the concept of open, read, & write into a file.
+38. W.A.P to show the concept of ifstream class to read from a file.
+39. W.A.P to show the concept of ofstream class to write into a file.
+
+
+## Basics :
 
 1. W.A.P to print no from 1 to n using the class.
 2. W.A.P to print no from n to 1 using the class.
@@ -46,7 +88,7 @@
 40. Perform complex operation using overloading.
 41. Determine the area of rectangle using constructor.
 42. Make a program to find the complex no.
-43. 
+43. Make a program to add two time using object as argument.
 
 ## Medium :
 1. W.A.P of calculator.
