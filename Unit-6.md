@@ -18,7 +18,7 @@ flowchart TD;
 ### Visibility Mode :
 
 |Base Class | Parent | Parent | Parent | 
-|---|---|---|---|---|
+|---|---|---|---|
 |Mode  | Public | Private | Protected | 
 |Private | `Not Inherit` | `Not Inherit` | `Not Inherit` |
 |Protected | `Protected` | `Private` | `Protected`|
