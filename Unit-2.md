@@ -78,7 +78,7 @@ int main(void){
 | Operators | Uses |
 |-----|-----|
 | `&&` | Logical and : Check both side true then result is true |  
-|  `|| ` | Logical OR : If one side  is true then result is true |
+|  `\|\| ` | Logical OR : If one side  is true then result is true |
 | `!` | Logical Not : If the value is true then it makes it false | 
 
 
@@ -87,7 +87,7 @@ int main(void){
 | Operators | Uses |
 |-----|-----|
 | `& `|  Bitwise AND : satisfied both side true for resultant to be true |
-| `| `| Bitwise OR : satisfied one side true for resultant to be true | 
+| `\|` | Bitwise OR : satisfied one side true for resultant to be true | 
 | `^ `| Bitwise Exclusive OR (XOR): both side true or false to be true else, if one side true and other side false then the result be false |
 | `<<` |Left shift : shift bit to the left side |
 | `>>` |Right shift : shift bit to the right side |
