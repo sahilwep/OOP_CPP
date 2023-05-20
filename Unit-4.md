@@ -29,7 +29,7 @@ int main(){
 }
 ```
 * Here during the function defining we using `parameter` `x` & `y`
-* During the function we use `argument` `a` & `b`
+* During the function call we use `argument` `a` & `b`
 
 
 ### Function Calling : 
