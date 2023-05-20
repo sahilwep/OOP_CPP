@@ -180,7 +180,7 @@ int main(void){
 ```
 * CPP support function overloading and operator overloading.
 ##### Function Overloading
-* Function overloading is feature where tow or more function can have same name but different parameters, When function name is overloaded with different jobs it is called function overloading.
+* Function overloading is feature where two or more function can have same name but different parameters, When function name is overloaded with different jobs it is called function overloading.
 * Function overloading is using the single function name to perform different type of task.
 * In function overloading we change the signature of the function by changing the parameters and return type, but name are same.
 
@@ -356,7 +356,7 @@ int main() {
 
 * `C` is pure Procedural programming language with many limitation, whereas `CPP` support OOP to overcome the limitation of `C`. 
 * We can say `CPP` is improved version of `C`.
-* `C` has the concept of `structure` and `union` which helps us during complex programming, but we can't define define inside the `struct` & `union`, also there is no concept of `Access-specifier` , `Abstraction` which will provide the data security.   
+* `C` has the concept of `structure` and `union` which helps us during complex programming, but we can't define function inside the `struct` & `union`, also there is no concept of `Access-specifier` , `Abstraction` which will provide the data security.   
 ### Simple C++ program :
 
 #### Input Output :
