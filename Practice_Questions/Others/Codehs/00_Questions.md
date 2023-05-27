@@ -27,7 +27,7 @@
 21. Implement the concept of constructor overloading.
 22. Create a program in C++ to deposit or withdraw some amount in a bank account with the help of a friend function. This friend function should be able to access the balance, which is being declared as private. Display properly the updated balance before and after deposit or withdraw.
 23. Create a program to check Palindrome of a number along with string using function overloading. Display the result before and after (Note: Variable should be privately declared.)
-24. Create a program to find factorial of number using call by reference and call by address.
+24. Create a program to find factorial of number using call by reference and call by pointer.
 25. Create a program to Compare Two Strings using inline function as well as static function.(Note: Definition of inline function should be outside the class and static function should be inside the class.)
 26. Implement C++ stream classes
 27. Perform different file operations

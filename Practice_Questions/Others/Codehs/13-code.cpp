@@ -7,6 +7,7 @@ class Abc{
     private:
         int h1, h2, h;
         int m1, m2, m;
+        int k;
 
     public:
         void time(){
@@ -21,10 +22,6 @@ class Abc{
             if (m > 60){
                 h = h + 1;
                 m = m - 60;
-            }
-
-            if (h > 24){
-                h = h - 24;
             }
         }
         void display(){
