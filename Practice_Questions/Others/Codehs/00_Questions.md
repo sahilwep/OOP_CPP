@@ -32,9 +32,12 @@
 26. Implement C++ stream classes
 27. Perform different file operations
 28. Implement single inheritance with constructor and do it with real world example.
-29. Implement multiple inheritance with constructor and do it with real world example.
-30. Implement hierarchal inheritance with constructor and do it with real world example.
+29. Implement multilevel inheritance with constructor and do it with real world example.
+30. Implement multiple inheritance with constructor and do it with real world example.
 31. Implement hierarchal inheritance with constructor and do it with real world example.
+32. Implement hybrid inheritance with constructor and do it with real world example.
+ 
+
 
 
 
