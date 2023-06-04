@@ -62,33 +62,30 @@
 14. W.A.P to find reverse of a no by defining function outside the class.
 15. W.A.P to swap two numbers using third variable with class.
 16. W.A.P to swap two numbers without using third variable with class.
-17. W.A.P to display entered data.
-18. W.A.P to show the concept call by value.
-19. W.A.P to show the concept call by Reference.
-20. W.A.P to show the concept call by address.
-21. W.A.P to add two times by call by reference.
-22. W.A.P to add two times by call by address.
-23. W.A.P to show the concept of overloading.
-24. W.A.P to show the concept of overriding. 
-25. W.A.P to show the concept of constructor and destructor.
-26. W.A.P to show the concept of Default constructor.
-27. W.A.P to show the concept of Parametrized constructor.
-28. W.A.P to show the concept of Copy constructor.
-29. W.A.P to show the concept of Multiple constructor.
-30. W.A.P to show the concept of Constructor overloading.
-31. W.A.P to show the concept of Dynamic Constructor.
-32. W.A.P to show the concept of default argument.
-33. W.A.P to show the concept of Constructor with default arguments.
-34. W.A.P to show the concept of Dynamic initialization of object.
-35. W.A.P to show the concept of Dynamic initialization of object and constructor.
-36. W.A.P to show the concept of deallocating dynamic object.
-37. W.A.P to show the concept of destructor.
-38. W.A.P to to enter student marks, roll using virtual function.
-39. W.A.P to calculate the volume of cube using constructor.
-40. Perform complex operation using overloading.
-41. Determine the area of rectangle using constructor.
-42. Make a program to find the complex no.
-43. Make a program to add two time using object as argument.
+17. W.A.P to show the concept call by value.
+18. W.A.P to show the concept call by Reference.
+19. W.A.P to show the concept call by address.
+20. W.A.P to show the concept of overloading.
+21. W.A.P to show the concept of overriding. 
+22. W.A.P to show the concept of constructor and destructor.
+23. W.A.P to show the concept of Default constructor.
+24. W.A.P to show the concept of Parametrized constructor.
+25. W.A.P to show the concept of Copy constructor.
+26. W.A.P to show the concept of Multiple constructor.
+27. W.A.P to show the concept of Constructor overloading.
+28. W.A.P to show the concept of Dynamic Constructor.
+29. W.A.P to show the concept of default argument.
+30. W.A.P to show the concept of Constructor with default arguments.
+31. W.A.P to show the concept of Dynamic initialization of object.
+32. W.A.P to show the concept of Dynamic initialization of object and constructor.
+33. W.A.P to show the concept of deallocating dynamic object.
+34. W.A.P to show the concept of destructor.
+35. W.A.P to to enter student marks, roll using virtual function.
+36. W.A.P to calculate the volume of cube using constructor.
+37. Perform complex operation using overloading.
+38. Determine the area of rectangle using constructor.
+39. Make a program to find the complex no.
+40. Make a program to add two time using object as argument.
 
 ## Medium :
 1. W.A.P of calculator.
